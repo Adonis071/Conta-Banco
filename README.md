@@ -18,5 +18,5 @@ Para executar o projeto, você precisa ter o Java instalado em seu sistema. Depo
 ## Contato
 Para mais informações, entre em contato:
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/adonis-pantoja-232662239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
